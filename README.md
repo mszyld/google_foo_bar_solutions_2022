@@ -1,6 +1,6 @@
 # google_foo_bar_solutions_2022
 
-This year I completed the Google "foo bar" challenge, I worked on very interesting problems and along the way I learned some more Python and Data Structures and Algorithms! I'm posting my solutions here as Jupyter Notebooks including the problem statements and some explanations of how the solutions work and the ideas involved. 
+This year I completed the Google "foo bar" challenge, I worked on very interesting problems that kept getting harder on each level and along the way I learned some more Python and Data Structures and Algorithms! I'm posting my solutions here as Jupyter Notebooks including the problem statements and some explanations of how my solutions work and the ideas involved. 
 
 Problem List:
 - Level_2_Part_1: Bunny Prisoner Locating
